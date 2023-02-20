@@ -1,4 +1,4 @@
-# JavaScript-projects
+# JavaScript-Exercises
 
 
 ## Number 1 Echt a sketch (2D)
